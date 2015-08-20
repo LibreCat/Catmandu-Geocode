@@ -1,6 +1,6 @@
 Catmandu-Geocode-*
 /.build
-!META.json
+META.json
 LICENSE
 local
 cpanfile.snapshot
