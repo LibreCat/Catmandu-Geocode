@@ -7,7 +7,7 @@ Catmandu::Geocode - Catmandu modules for the Google Maps geocoding api
 =head1 SYNOPSIS
 
    geocode(address)         # address: 'Hollywood and Highland, Los Angeles, CA' 
-   reverse_gecode(latlng)   # latlng:  '34.1015473,-118.3387288'
+   reverse_geocode(latlng)   # latlng:  '34.1015473,-118.3387288'
 
 =cut
 

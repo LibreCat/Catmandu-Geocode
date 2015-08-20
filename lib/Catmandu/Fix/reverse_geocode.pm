@@ -19,14 +19,14 @@ sub emit_value {
 
 =head1 NAME
 
-Catmandu::Fix::geocode - Provide access to the Google geocoding API
+Catmandu::Fix::reverse_geocode - Provide access to the Google geocoding API
 
 =head1 SYNOPSIS
 
    # Lookup the location of
    #  latlng: '34.1015473,-118.3387288'
    
-   geocode(latlng)
+   reverse_geocode(latlng)
    
    #  address:
    #    address_components:
