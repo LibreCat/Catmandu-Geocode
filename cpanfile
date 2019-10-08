@@ -6,5 +6,6 @@ on 'test', sub {
   requires 'Test::Exception','0.32';
 };
 
+requires 'Moo', '0';
 requires 'Catmandu', '0';
 requires 'Geo::Coder::Google', 0;
